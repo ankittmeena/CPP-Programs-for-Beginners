@@ -22,6 +22,6 @@ The practice questions in this repository are inspired by various sources, inclu
 
 ## Contact
 
-If you have any questions, suggestions, or inquiries, please feel free to contact me at [ankit.k.meena2301@gmail.com](mailto:ankit.k.meena2301@gmail.com). We appreciate your interest and engagement with this repository.
+If you have any questions, suggestions, or inquiries, please feel free to contact me at [ankit.k.meena2301@gmail.com](mailto:ankit.k.meena2301@gmail.com). I appreciate your interest and engagement with this repository.
 
 Happy coding!
